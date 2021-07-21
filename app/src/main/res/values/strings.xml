@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SantanderDevClone</string>
+    <string name="TXT_saldo_disponivel">Saldo_Disponivel</string>
 </resources>
