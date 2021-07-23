@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="redPrimary">#9C0805</color>
     <color name="redSecundary">#CD0001</color>
+    <color name="Grey">#DADADA</color>
 </resources>
