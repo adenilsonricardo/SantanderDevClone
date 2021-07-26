@@ -3,5 +3,8 @@
     <string name="TXT_saldo_disponivel">Saldo_Disponivel</string>
     <string name="TXT_saldo_limite">Saldo+Limite</string>
     <string name="TXT_ver_extrato">Ver Extrato</string>
+    <string name="TXT_Recarga">Recarga</string>
+    <string name="txt_transaferir">Transferir</string>
+    <string name="txt_pagar">Pagar</string>
 
 </resources>
