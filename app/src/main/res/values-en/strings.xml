@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderDevClone</string>
+    <string name="TXT_saldo_disponivel">Balance _Available</string>
+    <string name="TXT_saldo_limite">Balance_limit</string>
+    <string name="TXT_ver_extrato">Extract_View</string>
+    <string name="TXT_Recarga">Recharge</string>
+    <string name="txt_transaferir">Transfer</string>
+    <string name="txt_pagar">Payment</string>
+</resources>
